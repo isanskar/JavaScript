@@ -1,0 +1,12 @@
+const firstName = "Akash"
+const firstNamee = "Akash"
+const firstName2 = "Aka" + "sh"
+const lastName = "Singh"
+const userAge = 15
+const birthYear = 2000
+const isGraduate = false
+const hasJob = true
+const isHappy = !0
+const isNull = null
+const isUndefined = undefined
+const isEmptyString = ''

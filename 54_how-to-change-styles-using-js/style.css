@@ -1,0 +1,58 @@
+#css-img {
+    border: 4px red solid;
+}
+
+[alt="javascript roadmap"] {
+    border: 4px green solid;
+}
+
+h1 {
+    color: red;
+    /* font-family: cursive;
+    font-weight: 700;
+    text-decoration-line: none;
+    font-size: 18px; */
+}
+
+p b{
+    display: none;
+    /* visibility: hidden; */
+    
+    /* opacity: 0;
+    pointer-events: none; */
+}
+
+
+.greenLink{
+    color: teal;
+    font-family: cursive;
+    font-weight: 700;
+    text-decoration-line: none;
+    font-size: 18px;
+}
+
+
+.myLink{
+    border: 2px solid green;
+}
+
+.hidden{
+    display: none;
+}
+
+#box{
+    border: 2px solid palegreen;
+    padding: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+.light-theme{
+    background-color: white;
+    color: black;
+}
+
+.dark-theme{
+    background-color: black;
+    color: white;
+}
